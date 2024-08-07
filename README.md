@@ -67,3 +67,15 @@ This Real-Time Chat Application is a full-stack web application developed using 
 ## Future Updates
 
 Stay tuned for more exciting updates as we continue to enhance and add new features to the application.
+## Screenshots
+
+Here are some screenshots of the Real-Time Chat Application:
+### Chat Interface
+![Chat app](https://github.com/user-attachments/assets/bff5f11c-6c74-4d74-aaf1-85cbf9254dcd)
+![chat app01](https://github.com/user-attachments/assets/827d3cd4-89f5-4d2c-8830-83a68bf1f08c)
+
+### Signup Page
+![SignIn](https://github.com/user-attachments/assets/ad25eb00-26c5-4fd5-937a-762c8d4f64a6)
+
+### LogIn Page
+![Login](https://github.com/user-attachments/assets/46305cab-6e1e-431e-83a3-cbb158aa301c)
